@@ -18,11 +18,6 @@ dependencies:
 - ncurses=5.9=99
 - pcre=8.37=5
 - readline=6.2=99
-- root=6.04=py2.7_gcc4.8.2
-- root-numpy=4.4.0=root6.04_py2.7
-- root_numpy=4.3.0=root6.04_py2.7
-- root_pandas=master=nppy27_1
-- rootpy=master=py2.7
 - backports=1.0=py27_0
 - backports.lzma=0.0.13=py27h8fe5b11_0
 - backports.shutil_get_terminal_size=1.0.0=py_3
@@ -194,7 +189,6 @@ dependencies:
   - jupyter-core==4.3.0
   - msgpack==0.6.0
   - prompt-toolkit==1.0.15
-  - root-pandas==0.1
   - tables==3.4.2
   - uproot==3.2.14
   - uproot-methods==0.2.10
