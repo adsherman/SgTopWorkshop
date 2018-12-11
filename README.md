@@ -17,4 +17,4 @@ rm -f Miniconda2-4.5.11-Linux-x86_64.sh
 
 conda install conda env create -f environment.yml
 
-# OSX is not compatible with some of the environments, unfortunately
+# OSX is not compatible with some of the packages that have been vetted, unfortunately
