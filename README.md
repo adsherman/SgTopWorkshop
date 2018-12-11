@@ -10,8 +10,11 @@ Then just run the following commands:
 
 # LINUX
 wget https://repo.continuum.io/miniconda/Miniconda2-4.5.11-Linux-x86_64.sh
+
 sh Miniconda2-4.5.11-Linux-x86_64.sh
+
 rm -f Miniconda2-4.5.11-Linux-x86_64.sh
+
 conda install conda env create -f environment.yml
 
 # OSX is not compatible with some of the environments, unfortunately
